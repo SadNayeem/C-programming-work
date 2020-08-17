@@ -8,5 +8,4 @@ main()
         s=s-i;
     prnitf("%d",s);
     getch();
-
 }
